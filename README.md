@@ -33,7 +33,7 @@ From the project directory **run**
 [**Manish Kumar Shah**](https://github.com/ManishShah120)
 
 # License
-**srgbvrf**(add the license url here)
+This Project is intentionally not being Licensed
 
 # About
 This Project was build under the guidance of my Udemy Course Instructor for the course "The Complete Python 3 Course: Beginner to Advanced!""
