@@ -6,7 +6,7 @@ After downloading or cloning the repo, Navigate to the directory containing the 
 ```pip3 install requirements.txt```
 # How to run
 From the project directory **run**
-``` python3 main.py```
+##### ``` python3 main.py```
 ![alt text](https://github.com/ManishShah120/Basic-Calculator1.0/blob/master/Basic-Calculator1.0.png)
 
 ## Built With
