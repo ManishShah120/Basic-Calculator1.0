@@ -19,14 +19,14 @@ From the project directory **run**
 
 ## Contributing
 
-> 1.Feel free to FORK
-> 2.Create your feature branch: ```git checkout -b my-new-feature```
-> 3.Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged.
-> 4.Make sure your program works after beautifying it.
-> 5.Please check your spellings before making a PR
-> 6.Comment code properly.
-> 7.Commit your changes: ```git commit -m 'Add some feature'```
-> 8.Push to the branch: ```git push origin my-new-feature```
+> 1.Feel free to FORK<br>
+> 2.Create your feature branch: ```git checkout -b my-new-feature```<br>
+> 3.Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged.<br>
+> 4.Make sure your program works after beautifying it.<br>
+> 5.Please check your spellings before making a PR<br>
+> 6.Comment code properly.<br>
+> 7.Commit your changes: ```git commit -m 'Add some feature'```<br>
+> 8.Push to the branch: ```git push origin my-new-feature```<br>
 > 9.Submit a ```pull``` request
 
 ## Authors
